@@ -1,0 +1,9 @@
+### Testing POST
+POST http://localhost:5172/tasks
+Content-Type: application/json
+
+{
+    "id": 3,
+    "description": "Creating my first POST route",
+    "completed": false
+}
