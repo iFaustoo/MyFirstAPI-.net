@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\OneDrive\\Documentos\\MiniAvances\\MyFirstAPI-.net\\MyFirstAPI\\MyFirstAPI.csproj": {}
+    "C:\\Users\\Acer\\OneDrive\\Documentos\\MiniAvances\\MyFirstAPI-.net\\MyFirstApi\\MyFirstAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\OneDrive\\Documentos\\MiniAvances\\MyFirstAPI-.net\\MyFirstAPI\\MyFirstAPI.csproj": {
+    "C:\\Users\\Acer\\OneDrive\\Documentos\\MiniAvances\\MyFirstAPI-.net\\MyFirstApi\\MyFirstAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\OneDrive\\Documentos\\MiniAvances\\MyFirstAPI-.net\\MyFirstAPI\\MyFirstAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\OneDrive\\Documentos\\MiniAvances\\MyFirstAPI-.net\\MyFirstApi\\MyFirstAPI.csproj",
         "projectName": "MyFirstAPI",
-        "projectPath": "C:\\Users\\Acer\\OneDrive\\Documentos\\MiniAvances\\MyFirstAPI-.net\\MyFirstAPI\\MyFirstAPI.csproj",
+        "projectPath": "C:\\Users\\Acer\\OneDrive\\Documentos\\MiniAvances\\MyFirstAPI-.net\\MyFirstApi\\MyFirstAPI.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\OneDrive\\Documentos\\MiniAvances\\MyFirstAPI-.net\\MyFirstAPI\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\OneDrive\\Documentos\\MiniAvances\\MyFirstAPI-.net\\MyFirstApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
