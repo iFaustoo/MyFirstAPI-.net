@@ -3,7 +3,20 @@ POST http://localhost:5172/tasks
 Content-Type: application/json
 
 {
-    "id": 3,
-    "description": "Creating my first POST route",
-    "completed": false
+    "id": 1,
+    "description": "Coming back with item 1",
+    "completed": true
+}
+
+### Testing DELETE
+DELETE http://localhost:5172/tasks/1
+
+### Testing PUT
+PUT http://localhost:5172/tasks/2
+Content-Type: application/json
+
+{
+    "id": 2,
+    "description": "Migrate the calculator to React",
+    "completed": true
 }
