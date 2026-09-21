@@ -26,3 +26,10 @@ C:\Users\Acer\OneDrive\Documentos\MiniAvances\MyFirstAPI-.net\MyFirstAPI\obj\Deb
 C:\Users\Acer\OneDrive\Documentos\MiniAvances\MyFirstAPI-.net\MyFirstAPI\obj\Debug\net9.0\MyFirstAPI.pdb
 C:\Users\Acer\OneDrive\Documentos\MiniAvances\MyFirstAPI-.net\MyFirstAPI\obj\Debug\net9.0\MyFirstAPI.genruntimeconfig.cache
 C:\Users\Acer\OneDrive\Documentos\MiniAvances\MyFirstAPI-.net\MyFirstAPI\obj\Debug\net9.0\ref\MyFirstAPI.dll
+C:\Users\Acer\OneDrive\Documentos\MiniAvances\MyFirstAPI-.net\MyFirstApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Acer\OneDrive\Documentos\MiniAvances\MyFirstAPI-.net\MyFirstApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Acer\OneDrive\Documentos\MiniAvances\MyFirstAPI-.net\MyFirstApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Acer\OneDrive\Documentos\MiniAvances\MyFirstAPI-.net\MyFirstApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Acer\OneDrive\Documentos\MiniAvances\MyFirstAPI-.net\MyFirstApi\obj\Debug\net9.0\MyFirstAPI.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Documentos\MiniAvances\MyFirstAPI-.net\MyFirstApi\obj\Debug\net9.0\MyFirstAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Acer\OneDrive\Documentos\MiniAvances\MyFirstAPI-.net\MyFirstApi\obj\Debug\net9.0\MyFirstAPI.csproj.Up2Date
